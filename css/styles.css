@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #bd5d38;
+  --primary: #20c997;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #20c997;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2439,8 +2439,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #20c997;
+  border-color: #20c997;
 }
 .btn-primary:hover {
   color: #fff;
@@ -2455,8 +2455,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #20c997;
+  border-color: #20c997;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -2678,25 +2678,25 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #bd5d38;
-  border-color: #bd5d38;
+  color: #20c997;
+  border-color: #20c997;
 }
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #20c997;
+  border-color: #20c997;
 }
 .btn-outline-primary:focus, .btn-outline-primary.focus {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.5);
 }
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #bd5d38;
+  color: #20c997;
   background-color: transparent;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #20c997;
+  border-color: #20c997;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.5);
