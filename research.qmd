@@ -3,10 +3,13 @@ title: ""
 format: html
 ---
 
-# My Research
+## Research
 
-## CO2 Fertilization Effects
-I study the impacts of rising atmospheric CO2 levels on carbon sinks at different scales.
+My research have focused on evaluating the impacts of global change on forest ecosystems from a multiscale perspective. 
+My approach includes the use of diverse data in combination with process-based modeling and statistical analyses. 
 
-## Data Science in Climate Science
-Using R and statistical modeling to analyze ecological and climate data.
+## Data Science
+I use R for data management, visualization, and modeling. My workflow includes handling large datasets while ensuring data integrity and reproducibility. I create visualizations to explore trends and communicate findings and apply statistical and computational modeling techniques to extract insights from complex data.
+
+## Resources
+You can find more about my work and projects on my [GitHub profile](https://github.com/lauramarques).

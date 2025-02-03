@@ -14,8 +14,6 @@ website:
         text: Publications
       - href: CV.qmd
         text: CV
-      - href: contact.qmd
-        text: Contact
   page-footer: 
     center: "© 2025 Laura Marqués | Powered by Quarto"
 

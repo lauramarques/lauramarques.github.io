@@ -1,0 +1,6 @@
+---
+title: ""
+format: html
+---
+
+📄 [Download Laura Marqués CV](CV.pdf)

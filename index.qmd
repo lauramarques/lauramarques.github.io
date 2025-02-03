@@ -1,11 +1,17 @@
 ---
-title: "Laura Marqués"
+title: ""
 format: html
 ---
 
-# Welcome to My Academic Website
+# Laura Marqués
 
-I am a researcher in climate science, ecology, and data analysis. This website showcases my research, publications, and academic journey.
+I am a data scientist and a researcher in ecology and climate science.
 
-📩 Contact: [email@example.com](mailto:email@example.com)  
-📄 [Download My CV](CV.pdf)
+I have been working at the University of Bern, at the [Geocomputation and Earth Observation group](https://geco-group.org/) with Prof. Benjamin D. Stocker. My most recent position was Margarita Salas Fellow at the University of Bern and in collaboration with the [Cambium Research Group](https://www.cambiumresearch.eu/) at the University of Valladolid, Spain. I had previously been a postdoc at the [Department of Environmental Systems Science](https://usys.ethz.ch/en/) at ETH Zürich.
+
+I received my PhD in Forest Ecology at the department of [Life Sciences](https://www.uah.es/es/conoce-la-uah/campus-centros-y-departamentos/departamentos/Ciencias-de-la-Vida/) at the University of Alcalá, Spain. 
+
+📩 Contact: [lauramarqueslopez@gmail.com](mailto:lauramarqueslopez@gmail.com)  
+📄 [Google Scholar](https://scholar.google.com/citations?user=3sIrulQAAAAJ&hl=en&oi=sra)
+
+[Download My CV](CV.pdf)

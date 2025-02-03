@@ -1,0 +1,56 @@
+---
+title: "Laura Marqués"
+author: ""
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+geometry: margin=1in
+fontsize: 11pt
+fontfamily: palatino
+header-includes:
+  - \usepackage{enumitem}
+  - \usepackage{xcolor}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=true, urlcolor=blue}
+---
+
+# Contact Information
+- **Email**: lauramarqueslopez@gmail.com
+- **Website**: [www.lauramarques.github.io](https://lauramarques.github.io)
+
+---
+
+# Work Experience
+**Postdoctoral Researcher** 
+University of Bern  
+_2021 - Present_  
+- Conducting research on CO2 fertilization and its impacts on ecosystems.  
+- Managing datasets and performing statistical analysis with R.
+
+**Research Assistant**  
+ETH Zurich  
+_2016 - 2017_  
+- Analyzed the ecological impacts of climate change on plant communities.
+
+---
+
+# Education
+### PhD in Ecology
+**University of Bern**  
+_2017 - 2021_
+
+### MSc in Natural Sciences
+**ETH Zurich**  
+_2015 - 2017_
+
+---
+
+## Skills
+- **Data Analysis**: R, Python, MATLAB
+- **Research**: Data management, statistical modeling, fieldwork
+- **Languages**: English (Fluent), Spanish (Native), German (Beginner)
+
+---
+
+## Publications
+- Marqués, L. et al. (2024). "The role of CO2 fertilization on global carbon sinks." *Nature Climate Change.*
