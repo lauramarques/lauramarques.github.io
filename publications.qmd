@@ -9,23 +9,25 @@ csl: apa.csl  # Optional, use a citation style (like APA)
 
 ## Journal Articles
 
-Marqués, L., Weng, E., Bugmann, H., Forrester, D. I., Rohner, B., Hobi, M. L., et al. (2023). Tree growth enhancement drives a persistent biomass gain in unmanaged temperate forests. AGU Advances, 4, e2022AV000859. DOI: [10.1029/2022AV000859 ](https://doi.org/10.1029/2022AV000859)
+**Marqués, L**, Weng, E, Bugmann, H, Forrester, DI, Rohner, B, Hobi, ML, et al. (2023). Tree growth enhancement drives a persistent biomass gain in unmanaged temperate forests. AGU Advances, 4, e2022AV000859. DOI: [10.1029/2022AV000859](https://doi.org/10.1029/2022AV000859)
 
-Marqués L, Hufkens K, Bigler C, Crowther TW, Zohner CM, Stocker BD (2023) Acclimation of phenology relieves leaf longevity constraints in deciduous forests. Nat Ecol Evol 7, 198–204.
+**Marqués L**, Hufkens K, Bigler C, Crowther TW, Zohner CM, Stocker BD (2023) Acclimation of phenology relieves leaf longevity constraints in deciduous forests. Nat Ecol Evol 7, 198–204. DOI: [10.1038/s41559-022-01946-1](https://doi.org/10.1038/s41559-022-01946-1)
 
-Madrigal-González J, Calatayud J, Ballesteros-Cánovas JA et al. (2023) Global patterns of tree density are contingent upon local determinants in the world’s natural forests. Commun Biol 6, 47. 
+Madrigal-González J, Calatayud J, Ballesteros-Cánovas JA et al. (2023) Global patterns of tree density are contingent upon local determinants in the world’s natural forests. Commun Biol 6, 47. DOI: [10.1038/s42003-023-04419-8](https://doi.org/10.1038/s42003-023-04419-8)
 
-Cruz-Alonso V, Martínez-Baroja L, Marqués L, Rodríguez-Uña A, Rohrer Z, Monteagudo N and Velado-Alonso E (2023) Gender bias in ecosystem restoration: from science to practice. Restor Ecol, 31: e13815.
+Cruz-Alonso V, Martínez-Baroja L, **Marqués L**, Rodríguez-Uña A, Rohrer Z, Monteagudo N and Velado-Alonso E (2023) Gender bias in ecosystem restoration: from science to practice. Restor Ecol, 31: e13815. DOI: [10.1111/rec.13815](https://doi.org/10.1111/rec.13815)
 
-Marqués L, Ogle K, Peltier DMP, Camarero JJ (2022) Altered climate memory characterizes tree growth during forest dieback. Agricultural and Forest Meteorology. Agricultural and Forest Meteorology, 314, 108787.
+**Marqués L**, Ogle K, Peltier DMP, Camarero JJ (2022) Altered climate memory characterizes tree growth during forest dieback. Agricultural and Forest Meteorology. Agricultural and Forest Meteorology, 314, 108787. DOI: [10.1016/j.agrformet.2021.108787](https://doi.org/10.1016/j.agrformet.2021.108787)
 
-Marqués L, Peltier D, Camarero JJ, Zavala MA, Madrigal-González J, Sangüesa-Barreda G, Ogle K (2022) Disentangling the legacies of climate and management on tree growth in mixed forests. Ecosystems 25, 215-135. Citations: 3.
+**Marqués L**, Peltier D, Camarero JJ, Zavala MA, Madrigal-González J, Sangüesa-Barreda G, Ogle K (2022) Disentangling the legacies of climate and management on tree growth in mixed forests. Ecosystems 25, 215-135. DOI: [10.1007/s10021-021-00650-8](https://doi.org/10.1007/s10021-021-00650-8)
 
-Marqués L, Camarero JJ, Zavala MA, Stoffel M, Ballesteros-Cánovas J, Sancho-García C, Madrigal-González J (2021) Evaluating tree-to-tree competition during stand development in a relict Scots pine forest: how much does climate matter?. Trees 35, 1207–1219. Citations: 6.
+**Marqués L**, Camarero JJ, Zavala MA, Stoffel M, Ballesteros-Cánovas J, Sancho-García C, Madrigal-González J (2021) Evaluating tree-to-tree competition during stand development in a relict Scots pine forest: how much does climate matter?. Trees 35, 1207–1219. DOI: [10.1007/s00468-021-02109-8](https://doi.org/10.1007/s00468-021-02109-8)
 
-Marqués L, Madrigal-González J, Zavala MA, Camarero JJ, and Hartig F (2018) Last-century forest productivity in a managed dry-edge Scots pine population: the two sides of climate warming. Ecological Applications 28:95–105. Citations: 19.
+**Marqués L**, Madrigal-González J, Zavala MA, Camarero JJ, and Hartig F (2018) Last-century forest productivity in a managed dry-edge Scots pine population: the two sides of climate warming. Ecological Applications 28:95–105. DOI: [10.1002/eap.1631](https://doi.org/10.1002/eap.1631)
 
-Fernández-Manjarrés JF, Ruiz-Benito P, Zavala MA, Camarero JJ, Pulido F, Proença V, Navarro L, Sansilvestri R, Granda E, Marqués L, Temunovič M, Bertelsmeier C, Drobinski P, Roturier S, Benito-Garzón M, de Cortazar-Atauri IG, Simon L, Dupas S, Levrel H, Sautier M (2018) Forest adaptation to climate change along steep ecological gradients: The case of the Mediterranean-temperate transition in South-Western Europe. Sustainability 10:1– 18. Citations: 13.
-Marqués L, Camarero JJ, Gazol A, and Zavala MA (2016). Drought impacts on tree growth of two pine species along an altitudinal gradient and their use as early-warning signals of potential shifts in tree species distributions. Forest Ecology and Management 381:157–167. Citations: 57.
-Varela S, Andivia E, Bravo R, Briega A, Calatayud J, Cicuendez López-Ocaña V, Cruz-Alonso V, Espigares T, Fernádez-Pérez L, Gómez Sal A, Martínez de la Baroja L, Madrigal J, Marqués L, Marvá Ruiz M, Molina R, Pataro L, Pérez Camacho L, Rebollo de la Torre S, Rey Benayas JM, Rodríguez MA, Ruiz-Benito P, Santos AMC, Talabante C, Toca A, Velado E, Villar Salvador P, Zavala MA. (2016) Estudio, gestión, conservación y restauración de ecosistemas ante el cambio global: 1º Jornadas FORECO en la Universidad de Alcalá. Ecosistemas 25(1): 115. 
+Fernández-Manjarrés JF, Ruiz-Benito P, Zavala MA, Camarero JJ, Pulido F, Proença V, Navarro L, Sansilvestri R, Granda E, **Marqués L**, Temunovič M, Bertelsmeier C, Drobinski P, Roturier S, Benito-Garzón M, de Cortazar-Atauri IG, Simon L, Dupas S, Levrel H, Sautier M (2018) Forest adaptation to climate change along steep ecological gradients: The case of the Mediterranean-temperate transition in South-Western Europe. Sustainability 10:1– 18. DOI: [10.3390/su10093065](https://doi.org/10.3390/su10093065)
+
+**Marqués L**, Camarero JJ, Gazol A, and Zavala MA (2016). Drought impacts on tree growth of two pine species along an altitudinal gradient and their use as early-warning signals of potential shifts in tree species distributions. Forest Ecology and Management 381:157–167. DOI: [10.1016/j.foreco.2016.09.021](https://doi.org/10.1016/j.foreco.2016.09.021)
+
+Varela S, Andivia E, Bravo R, Briega A, Calatayud J, Cicuendez López-Ocaña V, Cruz-Alonso V, Espigares T, Fernádez-Pérez L, Gómez Sal A, Martínez de la Baroja L, Madrigal J, **Marqués L**, Marvá Ruiz M, Molina R, Pataro L, Pérez Camacho L, Rebollo de la Torre S, Rey Benayas JM, Rodríguez MA, Ruiz-Benito P, Santos AMC, Talabante C, Toca A, Velado E, Villar Salvador P, Zavala MA. (2016) Estudio, gestión, conservación y restauración de ecosistemas ante el cambio global: 1º Jornadas FORECO en la Universidad de Alcalá. Ecosistemas 25(1): 115.  DOI: [10.7818/ECOS.2016.25-1.19](https://doi.org/10.7818/ECOS.2016.25-1.19)
 

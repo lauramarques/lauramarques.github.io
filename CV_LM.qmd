@@ -15,42 +15,143 @@ header-includes:
 ---
 
 # Contact Information
+- **Current affiliation**: University of Bern.
 - **Email**: lauramarqueslopez@gmail.com
 - **Website**: [www.lauramarques.github.io](https://lauramarques.github.io)
 
 ---
 
 # Work Experience
-**Postdoctoral Researcher** 
-University of Bern  
-_2021 - Present_  
+### Margarita Salas fellow
+**_2022 - Present_**   
+University of Bern, Geocomputation and Earth Observation Group. Switzerland.  
 - Conducting research on CO2 fertilization and its impacts on ecosystems.  
-- Managing datasets and performing statistical analysis with R.
+- Managing datasets and performing statistical analysis with R.  
 
-**Research Assistant**  
-ETH Zurich  
-_2016 - 2017_  
-- Analyzed the ecological impacts of climate change on plant communities.
+### Postdoctoral Researcher
+**_2020 - 2022_**     
+ETH Zürich, Computational Ecosystem Science Group. Switzerland.  
+- Analyzed the ecological impacts of climate change on plant communities.  
+
+### Research Fellow
+**_2015 - 2019_**  
+University of Alcala. Department of Life Sciences. Spain.  
 
 ---
 
 # Education
-### PhD in Ecology
-**University of Bern**  
-_2017 - 2021_
-
+### PhD in Forest Ecology
+**_2015 - 2019_**  
+University of Alcala. Department of Life Sciences. Spain.  
+ 
 ### MSc in Natural Sciences
-**ETH Zurich**  
-_2015 - 2017_
+**_2012 - 2013_**  
+University of Zaragoza, Spain.  
+ 
+### Minor in Ecology
+**_2011 - 2012_**  
+Vrije University of Amsterdam, The Netherlands.  
+
+### BSc in Environmental Sciences
+**_2006 - 2011_**  
+University of Alcala. Department of Life Sciences. Spain.  
 
 ---
 
-## Skills
-- **Data Analysis**: R, Python, MATLAB
+# Publications
+
+**Marqués, L**, Weng, E, Bugmann, H, Forrester, DI, Rohner, B, Hobi, ML, et al. (2023). Tree growth enhancement drives a persistent biomass gain in unmanaged temperate forests. AGU Advances, 4, e2022AV000859. DOI: [10.1029/2022AV000859](https://doi.org/10.1029/2022AV000859)  
+
+**Marqués L**, Hufkens K, Bigler C, Crowther TW, Zohner CM, Stocker BD (2023) Acclimation of phenology relieves leaf longevity constraints in deciduous forests. Nat Ecol Evol 7, 198–204. DOI: [10.1038/s41559-022-01946-1](https://doi.org/10.1038/s41559-022-01946-1)  
+
+Madrigal-González J, Calatayud J, Ballesteros-Cánovas JA et al. (2023) Global patterns of tree density are contingent upon local determinants in the world’s natural forests. Commun Biol 6, 47. DOI: [10.1038/s42003-023-04419-8](https://doi.org/10.1038/s42003-023-04419-8)  
+
+Cruz-Alonso V, Martínez-Baroja L, **Marqués L**, Rodríguez-Uña A, Rohrer Z, Monteagudo N and Velado-Alonso E (2023) Gender bias in ecosystem restoration: from science to practice. Restor Ecol, 31: e13815. DOI: [10.1111/rec.13815](https://doi.org/10.1111/rec.13815)  
+
+**Marqués L**, Ogle K, Peltier DMP, Camarero JJ (2022) Altered climate memory characterizes tree growth during forest dieback. Agricultural and Forest Meteorology. Agricultural and Forest Meteorology, 314, 108787. DOI: [10.1016/j.agrformet.2021.108787](https://doi.org/10.1016/j.agrformet.2021.108787)  
+
+**Marqués L**, Peltier D, Camarero JJ, Zavala MA, Madrigal-González J, Sangüesa-Barreda G, Ogle K (2022) Disentangling the legacies of climate and management on tree growth in mixed forests. Ecosystems 25, 215-135. DOI: [10.1007/s10021-021-00650-8](https://doi.org/10.1007/s10021-021-00650-8)  
+
+**Marqués L**, Camarero JJ, Zavala MA, Stoffel M, Ballesteros-Cánovas J, Sancho-García C, Madrigal-González J (2021) Evaluating tree-to-tree competition during stand development in a relict Scots pine forest: how much does climate matter?. Trees 35, 1207–1219. DOI: [10.1007/s00468-021-02109-8](https://doi.org/10.1007/s00468-021-02109-8)  
+
+**Marqués L**, Madrigal-González J, Zavala MA, Camarero JJ, and Hartig F (2018) Last-century forest productivity in a managed dry-edge Scots pine population: the two sides of climate warming. Ecological Applications 28:95–105. DOI: [10.1002/eap.1631](https://doi.org/10.1002/eap.1631)  
+
+Fernández-Manjarrés JF, Ruiz-Benito P, Zavala MA, Camarero JJ, Pulido F, Proença V, Navarro L, Sansilvestri R, Granda E, **Marqués L**, Temunovič M, Bertelsmeier C, Drobinski P, Roturier S, Benito-Garzón M, de Cortazar-Atauri IG, Simon L, Dupas S, Levrel H, Sautier M (2018) Forest adaptation to climate change along steep ecological gradients: The case of the Mediterranean-temperate transition in South-Western Europe. Sustainability 10:1– 18. DOI: [10.3390/su10093065](https://doi.org/10.3390/su10093065)  
+
+**Marqués L**, Camarero JJ, Gazol A, and Zavala MA (2016). Drought impacts on tree growth of two pine species along an altitudinal gradient and their use as early-warning signals of potential shifts in tree species distributions. Forest Ecology and Management 381:157–167. DOI: [10.1016/j.foreco.2016.09.021](https://doi.org/10.1016/j.foreco.2016.09.021)  
+
+Varela S, Andivia E, Bravo R, Briega A, Calatayud J, Cicuendez López-Ocaña V, Cruz-Alonso V, Espigares T, Fernádez-Pérez L, Gómez Sal A, Martínez de la Baroja L, Madrigal J, **Marqués L**, Marvá Ruiz M, Molina R, Pataro L, Pérez Camacho L, Rebollo de la Torre S, Rey Benayas JM, Rodríguez MA, Ruiz-Benito P, Santos AMC, Talabante C, Toca A, Velado E, Villar Salvador P, Zavala MA. (2016) Estudio, gestión, conservación y restauración de ecosistemas ante el cambio global: 1º Jornadas FORECO en la Universidad de Alcalá. Ecosistemas 25(1): 115.  DOI: [10.7818/ECOS.2016.25-1.19](https://doi.org/10.7818/ECOS.2016.25-1.19)  
+
+---
+
+# Teaching
+**Land in the Earth System II**, **_2023_**  
+University of Bern. Master program. 25h.   
+Lecture on the fundamental processes governing terrestrial biosphere functioning.  
+ 
+**Applied Geodata Science Proseminar**, **_2023_**  
+University of Bern. Bsc in Geography. 25h. 
+Lecture on data management and analyses for applied geodata science projects.
+ 
+**Communicating data visually**, **_2022_**  
+Lucerne University of Applied Sciences and Arts (HSLU). 2022. BSc Data Design and Art. 10h. 
+Lecture on data management on forestry for undergraduates.  
+
+**Global Change Biology**, **_2021_**  
+ETH Zürich. Master program. 50h.  
+Lecture on scientific research on biodiversity for master students.  
+
+**Ecology and human well-being**, **_2016_**  
+University of Alcalá. BSc Biology. 46h. 
+Teaching assistant in statistics for biology undergraduates.  
+
+**Applied fieldwork techniques**, **_2016_**  
+University of Alcalá. BSc Environmental Sciences. 32h.  
+Teaching assistant in field techniques for biology undergraduates.  
+
+**Ecology**, **_2016_**  
+University of Alcalá. BSc Environmental Sciences. 20h.   
+Teaching assistant in statistics for biology undergraduates.  
+
+---
+
+# Teaching
+**Land in the Earth System II**, **_2023_**  
+University of Bern. Master program. 25h.   
+Lecture on the fundamental processes governing terrestrial biosphere functioning.  
+ 
+**Applied Geodata Science Proseminar**, **_2023_**  
+University of Bern. Bsc in Geography. 25h. 
+Lecture on data management and analyses for applied geodata science projects.
+ 
+**Communicating data visually**, **_2022_**  
+Lucerne University of Applied Sciences and Arts (HSLU). 2022. BSc Data Design and Art. 10h. 
+Lecture on data management on forestry for undergraduates.  
+
+**Global Change Biology**, **_2021_**  
+ETH Zürich. Master program. 50h.  
+Lecture on scientific research on biodiversity for master students.  
+
+**Ecology and human well-being**, **_2016_**  
+University of Alcalá. BSc Biology. 46h. 
+Teaching assistant in statistics for biology undergraduates.  
+
+**Applied fieldwork techniques**, **_2016_**  
+University of Alcalá. BSc Environmental Sciences. 32h.  
+Teaching assistant in field techniques for biology undergraduates.  
+
+**Ecology**, **_2016_**  
+University of Alcalá. BSc Environmental Sciences. 20h.   
+Teaching assistant in statistics for biology undergraduates. 
+
+---
+
+# Technical skills
+- **Data Analysis**: R, JAGS, 
 - **Research**: Data management, statistical modeling, fieldwork
-- **Languages**: English (Fluent), Spanish (Native), German (Beginner)
+- Advanced statistical data analysis using R, JAGS and Python.
+Management of multiscale long-term datasets.
+Dendrochronological fieldwork and laboratory analysis.
+Vegetation demography modeling and model-data fusion.
 
 ---
-
-## Publications
-- Marqués, L. et al. (2024). "The role of CO2 fertilization on global carbon sinks." *Nature Climate Change.*
