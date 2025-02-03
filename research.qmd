@@ -1,0 +1,12 @@
+---
+title: ""
+format: html
+---
+
+# My Research
+
+## CO2 Fertilization Effects
+I study the impacts of rising atmospheric CO2 levels on carbon sinks at different scales.
+
+## Data Science in Climate Science
+Using R and statistical modeling to analyze ecological and climate data.

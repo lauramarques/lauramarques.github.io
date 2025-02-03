@@ -1,0 +1,11 @@
+---
+title: "Laura Marqués"
+format: html
+---
+
+# Welcome to My Academic Website
+
+I am a researcher in climate science, ecology, and data analysis. This website showcases my research, publications, and academic journey.
+
+📩 Contact: [email@example.com](mailto:email@example.com)  
+📄 [Download My CV](CV.pdf)

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laura Marqués",
+    "section": "",
+    "text": "Welcome to My Academic Website\nI am a researcher in climate science, ecology, and data analysis. This website showcases my research, publications, and academic journey.\n📩 Contact: email@example.com\n📄 Download My CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Laura Marqués",
+    "section": "",
+    "text": "title: “About”\n\nAbout this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "My Research",
+    "section": "",
+    "text": "I study the impacts of rising atmospheric CO2 levels on carbon sinks at different scales.\n\n\n\nUsing R and statistical modeling to analyze ecological and climate data."
+  },
+  {
+    "objectID": "research.html#co2-fertilization-effects",
+    "href": "research.html#co2-fertilization-effects",
+    "title": "My Research",
+    "section": "",
+    "text": "I study the impacts of rising atmospheric CO2 levels on carbon sinks at different scales."
+  },
+  {
+    "objectID": "research.html#data-science-in-climate-science",
+    "href": "research.html#data-science-in-climate-science",
+    "title": "My Research",
+    "section": "",
+    "text": "Using R and statistical modeling to analyze ecological and climate data."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Laura Marqués",
+    "section": "",
+    "text": "Welcome to My Academic Website\nI am a researcher in climate science, ecology, and data analysis. This website showcases my research, publications, and academic journey.\n📩 Contact: email@example.com\n📄 Download My CV"
+  }
+]

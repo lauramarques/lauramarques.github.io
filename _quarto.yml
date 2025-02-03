@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs  # Required for GitHub Pages
+
+website:
+  title: "Laura Marqués"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: CV.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+    center: "© 2025 Laura Marqués | Powered by Quarto"
+
+format:
+  html:
+    theme: cosmo  # Change to "minty", "journal", etc.
+    css: styles.css  # Optional custom styling
+    toc: true  # Enable Table of Contents
