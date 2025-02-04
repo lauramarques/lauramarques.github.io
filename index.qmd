@@ -7,7 +7,7 @@ format: html
 
 <img src="images/pic.jpg" alt="My Image" width="200" height="200">
 
-I am a data scientist and a researcher in ecology and climate science.
+I am a data scientist and researcher specializing in ecology and climate science.
 
 I have been working at the University of Bern, at the [Geocomputation and Earth Observation group](https://geco-group.org/) with Prof. Benjamin D. Stocker. My most recent position was Margarita Salas Fellow at the University of Bern and in collaboration with the [Cambium Research Group](https://www.cambiumresearch.eu/) at the University of Valladolid, Spain. I had previously been a postdoc at the [Department of Environmental Systems Science](https://usys.ethz.ch/en/) at ETH Zürich.
 

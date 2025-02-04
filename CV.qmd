@@ -3,4 +3,4 @@ title: ""
 format: html
 ---
 
-📄 [Download Laura Marqués CV](CV.pdf)
+📄 [Download Laura Marqués CV](CV_LM.pdf)

@@ -1,12 +1,13 @@
 ---
 title: "Laura Marqués"
-author: ""
+subtitle: "University of Bern"
+author: "lauramarqueslopez@gmail.com  -  [www.lauramarques.github.io](https://lauramarques.github.io)"
 output: 
   pdf_document:
     latex_engine: pdflatex
 geometry: margin=1in
 fontsize: 11pt
-fontfamily: palatino
+fontfamily: lmodern
 header-includes:
   - \usepackage{enumitem}
   - \usepackage{xcolor}
@@ -14,46 +15,31 @@ header-includes:
   - \hypersetup{colorlinks=true, urlcolor=blue}
 ---
 
-# Contact Information
-- **Current affiliation**: University of Bern.
-- **Email**: lauramarqueslopez@gmail.com
-- **Website**: [www.lauramarques.github.io](https://lauramarques.github.io)
-
----
-
 # Work Experience
-### Margarita Salas fellow
-**_2022 - Present_**   
+
+**Margarita Salas fellow**, **_2022 - Present_**   
 University of Bern, Geocomputation and Earth Observation Group. Switzerland.  
-- Conducting research on CO2 fertilization and its impacts on ecosystems.  
-- Managing datasets and performing statistical analysis with R.  
 
-### Postdoctoral Researcher
-**_2020 - 2022_**     
+**Postdoctoral Researcher**, **_2020 - 2022_**   
 ETH Zürich, Computational Ecosystem Science Group. Switzerland.  
-- Analyzed the ecological impacts of climate change on plant communities.  
 
-### Research Fellow
-**_2015 - 2019_**  
+**Research Fellow**, **_2015 - 2019_**  
 University of Alcala. Department of Life Sciences. Spain.  
 
 ---
 
 # Education
-### PhD in Forest Ecology
-**_2015 - 2019_**  
+
+**PhD in Forest Ecology**, **_2015 - 2019_**  
 University of Alcala. Department of Life Sciences. Spain.  
  
-### MSc in Natural Sciences
-**_2012 - 2013_**  
+**MSc in Natural Sciences**, **_2012 - 2013_**  
 University of Zaragoza, Spain.  
  
-### Minor in Ecology
-**_2011 - 2012_**  
+**Minor in Ecology**, **_2011 - 2012_**  
 Vrije University of Amsterdam, The Netherlands.  
 
-### BSc in Environmental Sciences
-**_2006 - 2011_**  
+**BSc in Environmental Sciences**, **_2006 - 2011_**  
 University of Alcala. Department of Life Sciences. Spain.  
 
 ---
@@ -85,6 +71,7 @@ Varela S, Andivia E, Bravo R, Briega A, Calatayud J, Cicuendez López-Ocaña V, 
 ---
 
 # Teaching
+
 **Land in the Earth System II**, **_2023_**  
 University of Bern. Master program. 25h.   
 Lecture on the fundamental processes governing terrestrial biosphere functioning.  
@@ -115,43 +102,146 @@ Teaching assistant in statistics for biology undergraduates.
 
 ---
 
-# Teaching
-**Land in the Earth System II**, **_2023_**  
-University of Bern. Master program. 25h.   
-Lecture on the fundamental processes governing terrestrial biosphere functioning.  
- 
-**Applied Geodata Science Proseminar**, **_2023_**  
-University of Bern. Bsc in Geography. 25h. 
-Lecture on data management and analyses for applied geodata science projects.
- 
-**Communicating data visually**, **_2022_**  
-Lucerne University of Applied Sciences and Arts (HSLU). 2022. BSc Data Design and Art. 10h. 
-Lecture on data management on forestry for undergraduates.  
+# Conferences
 
-**Global Change Biology**, **_2021_**  
-ETH Zürich. Master program. 50h.  
-Lecture on scientific research on biodiversity for master students.  
+**INTECOL**, **_2022_**   
+*Tree growth enhancements drive a densening of unmanaged temperate forests*.  
+Frontiers in Ecology: Science and Society. Geneva, Switzerland.
 
-**Ecology and human well-being**, **_2016_**  
-University of Alcalá. BSc Biology. 46h. 
-Teaching assistant in statistics for biology undergraduates.  
+**BIFOR**, **_2022_**  
+*Higher carbon assimilation translates into enhanced biomass stocks*.  
+Birmingham, UK.
 
-**Applied fieldwork techniques**, **_2016_**  
-University of Alcalá. BSc Environmental Sciences. 32h.  
-Teaching assistant in field techniques for biology undergraduates.  
+**EGU General Assembly**, **_2022_**   
+*Long-term trends towards delayed autumn senescence prevail over short-term effects by high early-season CO~2~ assimilation*.  
+*Differential climate memory drives tree growth in ongoing forest dieback*.  
+Vienna, Austria. Hybrid edition.
 
-**Ecology**, **_2016_**  
-University of Alcalá. BSc Environmental Sciences. 20h.   
-Teaching assistant in statistics for biology undergraduates. 
+**European Conference on Ecological Restoration**, **_2021_**  
+*Gender bias in Ecosystem Restoration: from Science to Practice*.  
+Society for Ecological Restoration (SER). Online edition.
+
+**FORECOMON**, **_2021_**   
+*Are forests thickening due to rising CO2? Insights from Swiss forests and mechanistic modeling*.   
+ICP-Forests. Birmensdorf, Switzerland.  
+
+**EGU General Assembly**, **_2021_**    
+*Does forest growth acceleration lead to denser stands? Insights from Swiss forests and mechanistic modeling*.   
+Vienna, Austria. Hybrid edition.
+
+**EGU General Assembly**, **_2020_**    
+*Live fast-die young: Scaling CO~2~ fertilization effects from leaf to ecosystem levels*.   
+Vienna, Austria. Online edition.
+
+**IV Reunión del grupo de trabajo de Ecología, Ecofisiología y Suelos Forestales**, **_2019_**    
+*Competition dynamics under recurrent droughts in dry-edge populations of Pinus sylvestris*.   
+Alcalá de Henares, Spain.
+
+**ESA Annual Meeting**, **_2018_**    
+*Inferring time-scales of influence of climate on tree growth*.   
+New Orleans, Louisiana, USA.
+
+**REMEDINAL**, **_2016_**    
+*Restoration and Conservation of Madrid Ecosystems*.   
+Universidad Autónoma de Madrid, Spain.
+
+**TRACE**, **_2025_**    
+*Tree-Rings in Archaeology, Climatology & Ecology*.   
+Universidad Pablo Olavide, Sevilla, Spain.
+
+---
+
+# Awards & Funding
+
+**Margarita Salas postdoctoral fellowship for young researchers**, **_2022 – 2024_**  
+Funding institution: European Union. University of Bern and University of Valladolid.
+
+**Pre-doctoral fellowship. F.P.I. Formación de Personal Investigador**, **_2015 – 2019_**  
+Department of Life Sciences. University of Alcala.
+
+**Short-Term Scientific Mission**, **_2017_**  
+Funding institution: University of Alcala. Host institution: Northern Arizona University.
+
+**Short-Term Scientific Mission**, **_2016_**  
+Funding institution: COST Action FP1304. Host institution: University of Freiburg.
+
+**Erasmus scholarship**, **_2011_**  
+Funding institution: European Union.
+
+---
+
+# Research projects
+
+**Swiss National Science Foundation**, **_2019 – 2024_**   
+*Next-generation modeling of the biosphere – Including new data streams and optimality approaches (MIND)*. PI. Prof. Benjamin Stocker.
+
+**Spanish National Research Council**, **_2019 – 2021_**  
+*Identifying and disentangling key components of forest vulnerability and resilience in response to drought: the role of ecological memory and legacy effects in Iberian forests (FORMAL)*. PI: Prof. JJ Camarero and Prof. MA Zavala.
+
+**Spanish National Research Council**, **_2016 – 2019_**   
+*Vulnerabilidad y adaptación de los bosques Ibéricos a la sequía: una aproximación multi-escala basada en la dendroecología, inventarios forestales y modelización (FUNDIVER)*. PI: Prof. JJ Camarero and Prof. MA Zavala.
+
+---
+
+# Courses & Training
+
+**Career planning for Climate Scientists**, **_2022_**   
+Graduate School Climate Sciences, University of Bern.
+
+**Scientific Programming in Python**, **_2020_**   
+University of Zürich.
+
+**Swiss Learning path on the use of the C3S Climate Data Store**, **_2020_**   
+C3S User Learning Services and Wageningen University.
+
+**Course of Applied Bayesian Modeling**, **_2017_**   
+Northern Arizona University, Flagstaff, Arizona. 
+
+**Using R for ecological analysis**, **_2017_**   
+Centre for Ecological Research and Forestry Applications (CREAF), Barcelona, Spain.
+
+**Course of Bayesian statistics and models**,  **_2016_**  
+University of Freiburg, Germany. 
+
+**Species distribution models with R**, **_2015_**   
+Universidad de Alcalá, Madrid, Spain.
+
+**Climate change impacts on forest ecosystems**, **_2015_**  
+Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), Switzerland. 
+
+**Career day for scientists and engineers in the early stage**, **_2015_**   
+Autónoma University of Madrid, Spain.
+
+**Global Climate Change: Environmental and Human Impacts**, **_2015_**  
+Universidad de Alcalá, Madrid, Spain.
+
+**Bayesian calibration, forecasting, and multi-model predictions of process-based vegetation models**, **_2015_**   
+COST Action FP1304 PROFOUND. Grenoble, France.
 
 ---
 
 # Technical skills
-- **Data Analysis**: R, JAGS, 
-- **Research**: Data management, statistical modeling, fieldwork
-- Advanced statistical data analysis using R, JAGS and Python.
-Management of multiscale long-term datasets.
-Dendrochronological fieldwork and laboratory analysis.
-Vegetation demography modeling and model-data fusion.
+
+**Programming:** R (tidyverse, ggplot2, Shiny)  
+**Data Management:** R Markdown, Quarto, GitHub  
+**Modeling & Statistics:** Linear Mixed Effects Models, Process-based models  
+**Soft Skills:** Communication, collaboration, problem-solving  
 
 ---
+
+# Volunteer & Outreach
+
+**Scientific reviewer**, **_2019 - present_**  
+Journal reviewer for Annals of Forest Science, Journal of Ecology, Forest Ecology and Management, Agricultural and Forest Meteorology, Journal for Nature Conservation, Journal of Sustainable Forestry, and Geoscientific Model Development (GMD).
+
+**Women in Science**, **_2019_**  
+Public engagement to raise the visibility of women in science. Madrid, Spain.
+
+**Experimenta con Supercientíficas**, **_2018_**  
+Workshops for primary school. Madrid, Spain.
+
+**Science in the park**, **_2017_**  
+Volunteer to inspire the general public with the joy of scientific discovery. Arizona, USA.
+
+---
+
