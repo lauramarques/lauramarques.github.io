@@ -77,27 +77,27 @@ University of Bern. Master program. 25h.
 Lecture on the fundamental processes governing terrestrial biosphere functioning.  
  
 **Applied Geodata Science Proseminar**, **_2023_**  
-University of Bern. Bsc in Geography. 25h. 
-Lecture on data management and analyses for applied geodata science projects.
+University of Bern. Bsc in Geography. 25h.   
+Lecture on data management and analyses for applied geodata science projects.  
  
-**Communicating data visually**, **_2022_**  
-Lucerne University of Applied Sciences and Arts (HSLU). 2022. BSc Data Design and Art. 10h. 
+**Communicating data visually**, **_2022_**   
+Lucerne University of Applied Sciences and Arts (HSLU). BSc Data Design and Art. 10h.   
 Lecture on data management on forestry for undergraduates.  
 
 **Global Change Biology**, **_2021_**  
-ETH Zürich. Master program. 50h.  
+ETH Zürich. Master program. 50h.    
 Lecture on scientific research on biodiversity for master students.  
 
 **Ecology and human well-being**, **_2016_**  
-University of Alcalá. BSc Biology. 46h. 
+University of Alcalá. BSc Biology. 46h.   
 Teaching assistant in statistics for biology undergraduates.  
 
 **Applied fieldwork techniques**, **_2016_**  
-University of Alcalá. BSc Environmental Sciences. 32h.  
+University of Alcalá. BSc Environmental Sciences. 32h.    
 Teaching assistant in field techniques for biology undergraduates.  
 
 **Ecology**, **_2016_**  
-University of Alcalá. BSc Environmental Sciences. 20h.   
+University of Alcalá. BSc Environmental Sciences. 20h.     
 Teaching assistant in statistics for biology undergraduates.  
 
 ---
@@ -122,7 +122,7 @@ Vienna, Austria. Hybrid edition.
 Society for Ecological Restoration (SER). Online edition.
 
 **FORECOMON**, **_2021_**   
-*Are forests thickening due to rising CO2? Insights from Swiss forests and mechanistic modeling*.   
+*Are forests thickening due to rising CO~2~? Insights from Swiss forests and mechanistic modeling*.   
 ICP-Forests. Birmensdorf, Switzerland.  
 
 **EGU General Assembly**, **_2021_**    
