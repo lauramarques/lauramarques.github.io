@@ -17,7 +17,7 @@ header-includes:
 
 # Work Experience
 
-**Margarita Salas fellow**, **_2022 - Present_**   
+**Postdoctoral Researcher**, **_2022 - 2025_**   
 University of Bern, Geocomputation and Earth Observation Group. Switzerland.  
 
 **Postdoctoral Researcher**, **_2020 - 2022_**   
@@ -41,6 +41,20 @@ Vrije University of Amsterdam, The Netherlands.
 
 **BSc in Environmental Sciences**, **_2006 - 2011_**  
 University of Alcala. Department of Life Sciences. Spain.  
+
+---
+
+# Technical skills
+
+**Programming:** R (tidyverse, ggplot2, Shiny).  
+
+**Data Management:** R Markdown, Quarto, GitHub.    
+
+**Project Management:** Implementation and evaluation, communication and reporting.  
+
+**Modeling & Statistics:** Linear Mixed Effects Models, Process-based models  
+
+**Soft Skills:** Communication, collaboration, problem-solving.      
 
 ---
 
@@ -217,15 +231,6 @@ Universidad de Alcalá, Madrid, Spain.
 
 **Bayesian calibration, forecasting, and multi-model predictions of process-based vegetation models**, **_2015_**   
 COST Action FP1304 PROFOUND. Grenoble, France.
-
----
-
-# Technical skills
-
-**Programming:** R (tidyverse, ggplot2, Shiny)  
-**Data Management:** R Markdown, Quarto, GitHub  
-**Modeling & Statistics:** Linear Mixed Effects Models, Process-based models  
-**Soft Skills:** Communication, collaboration, problem-solving  
 
 ---
 
